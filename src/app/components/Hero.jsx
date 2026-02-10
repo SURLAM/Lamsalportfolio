@@ -63,7 +63,7 @@ export default function Hero() {
       >
         <div className="relative w-64 sm:w-72 lg:w-[350px] xl:w-[350px]">
           <Image
-            src="/Suresh_portfolio_picture.png"
+            src="/suresh_portfolio_picture.png"
             alt="Suresh Lamsal"
             width={600}
             height={600}
